@@ -6,7 +6,7 @@ setup(
     description=('CircularDependency{A,B} depend on each other; for testing packaging tools'),
     author='Marc Abramowitz',
     author_email='marc@marc-abramowitz.com',
-    url='https://github.com/msabramo/CircularDependencyA',
+    url='https://github.com/msabramo/CircularDependencyB',
     install_requires=['CircularDependencyA'],
     zip_safe=False,
     license='MIT',
